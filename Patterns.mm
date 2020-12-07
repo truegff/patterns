@@ -1,7 +1,7 @@
-<map version="0.9.0">
+<map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1314140239972" ID="ID_1515206680" MODIFIED="1314186765150" STYLE="bubble" TEXT="Patterns">
-<node CREATED="1314140355035" ID="ID_1855886369" MODIFIED="1315351120183" POSITION="right">
+<node CREATED="1314140355035" FOLDED="true" ID="ID_1855886369" MODIFIED="1606762246340" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -82,7 +82,7 @@
 <node CREATED="1314140935154" ID="ID_348959876" MODIFIED="1314140936962" TEXT="Future"/>
 </node>
 </node>
-<node CREATED="1314140360232" FOLDED="true" ID="ID_1556016529" MODIFIED="1315010592981" POSITION="right">
+<node CREATED="1314140360232" FOLDED="true" ID="ID_1556016529" MODIFIED="1606762229872" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -159,7 +159,7 @@
 <node CREATED="1314185995577" ID="ID_1781973927" MODIFIED="1314185999856" TEXT="Clean Room Testing"/>
 </node>
 </node>
-<node CREATED="1314140369222" FOLDED="true" ID="ID_1468759981" MODIFIED="1315010655126" POSITION="right">
+<node CREATED="1314140369222" FOLDED="true" ID="ID_1468759981" MODIFIED="1606762233754" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
